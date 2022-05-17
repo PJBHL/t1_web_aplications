@@ -1,4 +1,4 @@
-# t1_web_aplications
+# ti1_web_aplications
 
 Trabalho Interdisciplinar desenvolvido no 1º período do curso de Ciências da Computação na PUCMinas em 2020.
 
