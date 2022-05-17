@@ -6,8 +6,8 @@ O projeto envolve uma introdução a conceitos da web como html, css, js dentre 
 
 Integrantes do Grupo:
 
-João Pedro Lobato de Pinho
-Patrick Ferreira Santos
-Samuel Spinelli Rodrigues
-Sarah Luiza de Souza Magalhães
+João Pedro Lobato de Pinho \
+Patrick Ferreira Santos \
+Samuel Spinelli Rodrigues \
+Sarah Luiza de Souza Magalhães \
 Walker Freitas dos Santos
